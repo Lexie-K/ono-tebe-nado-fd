@@ -1,4 +1,4 @@
 #  "ОНО ТЕБЕ НАДО"
 This is Yandex educational project. It's written in vanilla HTML5 for hypertext documents and CSS3 for styling.
 
-[a link] (https://github.com/Lexie-K/ono-tebe-nado-fd)
+https://github.com/Lexie-K/ono-tebe-nado-fd
