@@ -267,14 +267,13 @@
 }
 
 .about__column {
-  padding-top: 100px;
-  padding-bottom: 24px;
+  padding-top: 98px; 
 }
 
 .text {
   display: flex;
   flex-direction: column;
-  gap:  24px;
+  gap: 24px;
 }
 
 .about__title {
@@ -290,7 +289,7 @@
   color: #000000;
   font-weight: 400;
   font-size: 20px;
-  line-height: 108%;
+  line-height: 120%;
 }
 
 .footer {
